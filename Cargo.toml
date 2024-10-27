@@ -1,6 +1,8 @@
 [package]
 name = "tikh_crate"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
+description = "Приклад створення крейту"
+authors = ["Tikhon Ishchenko"]
 
 [dependencies]
