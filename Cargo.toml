@@ -4,5 +4,6 @@ version = "1.0.0"
 edition = "2021"
 description = "Приклад створення крейту"
 authors = ["Tikhon Ishchenko"]
+license = "MIT"
 
 [dependencies]
